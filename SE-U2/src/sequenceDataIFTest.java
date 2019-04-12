@@ -35,7 +35,12 @@ public class sequenceDataIFTest {
 	 */
 	@Test
 	public void testIsWellSorted() throws Exception{
-		assertEquals(false, a1.isWellSorted(new String[]{"A,B,C"}));
+		assertEquals(true, a1.isWellSorted(new String[]{"A","B","C","D"}));
+	}
+	
+	@Test
+	public void testWrongCountDetection() throws Exception{
+		assertEquals(false, a1.isWellSorted(new String[]{"C","A","B"}));
 	}
 
 }
