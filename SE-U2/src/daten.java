@@ -95,7 +95,7 @@ public class daten implements sequenceDataIF {
 	}
 
 	private boolean sameLengthUniqueData(String[] x) {
-		String[] first = null;
+		String[] first = myData[0];
 		String[] second;
 
 		if (myData.length > 1) {
