@@ -1,5 +1,5 @@
 # EX-GSO-SE1
 
-Meli Z.
+Melih Z.
 Niclas H.
 Michael S.
