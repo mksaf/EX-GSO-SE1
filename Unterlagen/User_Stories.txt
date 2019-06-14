@@ -1,0 +1,21 @@
+Als Autofahrer benötige ich einen Parkschein, um in das Parkhaus hinein fahren zu können.
+
+Als Betreiber des Parkhauses benötige ich Listen und Summen über die eingenommenen Gebühren, um eine Übersicht zu bekommen.
+
+Als Abonnent des Parkhauses benötige ich einen Ausweis, um ohne Parkschein in das Parkhaus hinein fahren zu können.
+
+Als Autofahrer benötige ich einen Parkschein, um aus dem Parkhaus hinausfahren zu können.
+
+Als Autofahrer benötige ich ein Entwertungsautomat um die Parkdauer zu entwerten.
+
+Als Betreiber des Parkhauses stelle ich mithilfe einer Druckplatte fest, ob ein Auto vor der Schranke zum Parkhaus steht.
+
+Als Betreiber des Parkhauses darf nur ein Auto pro Schranke passieren, um in das Parkhaus hinein fahren zu können.
+
+Als Parkschein benötige ich einen Zeitstempel, um die Parkdauer messen zu können.
+
+Als Betreiber des Parkhauses kontrolliere ich durch einen Kennzeichen Scan, ob das hineingefahrene Fahrzeug dasselbe ist, welches zu einem späteren Zeitpunkt wieder hinausfährt.
+
+Als Betreiber des Parkhauses benötige ich eine Preisliste, um die Gebühren transparent zu gestalten.
+
+Als Betreiber des Parkhauses benötige ich eine Anzeige, um die Anzahl der freien Parkplätze zu erhalten.
