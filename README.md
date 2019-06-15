@@ -5,11 +5,9 @@ Niclas H.
 Michael S.
 
 
-Digitalisierungskonzept :
+Digitalisierungskonzept : https://github.com/mksaf/EX-GSO-SE1/blob/master/Unterlagen/Digitalisierungskonzept.txt
 
 User Stories : https://github.com/mksaf/EX-GSO-SE1/blob/master/Unterlagen/User_Stories.txt
-
-Kanban-Board : ?????????????????? 
 
 Priorisierung der User Stories : https://github.com/mksaf/EX-GSO-SE1/blob/master/Unterlagen/Priorisierung_der_User_Stories.txt
 
