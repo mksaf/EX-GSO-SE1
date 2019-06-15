@@ -1,0 +1,19 @@
+Digitalisierungskonzept
+
+1. Einleitung
+zu aller erst ist ein Brainstorm notwendig um alle möglichen punkte darzustellen so verrückt diese auch sein mögen.
+
+2. Überlegung
+wo welche Priorisierungen liegen um das Konzept Parkhaus funktionsfähig aufzubauen.
+
+3. Projektumgebung
+mit einbeziehen, um eine modulare erweiterbare Struktur zu entwickeln.
+
+4. Überlegung drüber hinaus
+was in Zukunft noch notwendig sein wird(Erweiterbarkeit).
+
+5. Technische Grundvoraussetzungen
+um die genannten Überlegungen umzusetzen.
+
+6. Schlussfolgerung
+wir haben ein Digitalisierungskonzept
