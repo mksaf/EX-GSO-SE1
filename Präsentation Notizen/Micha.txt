@@ -1,0 +1,16 @@
+Plan-/Zielkonflikt: Ziele sind nicht klar definiert. 
+Die Projektbeteiligten haben unterschiedliche Vorstellung davon “wo es hingehen soll”. Zeitplanung ist nicht klar definiert.
+
+Unklare Prioritäten: Die Prioritäten der einzelnen Aufgaben sind nicht geklärt. 
+Projektbeteiligte sehen unterschiedliche Prioritäten und fordern jeweils nach ihrer Prioritätenliste vorzugehen.
+
+Ressourcenkonflikt: Projektbeteiligte werden von Linienmanagern 
+nicht freigegeben oder andere benötigte Ressourcen stehen nicht oder nicht rechtzeitig zur Verfügung.
+
+Technische Entscheidungen: Technische Entscheidungen werden 
+nicht nachvollziehbar kommuniziert. Es entstehen Beurteilungs- und Meinungskonflikte.
+
+Kosten: Ansprüche an Qualität scheitern an mangelnden Mitteln. 
+Es entsteht eine Diskrepanz zwischen gewünschter Qualität und verfügbarem Kapital.
+
+Beziehungskonflikt: Es kommt zu Kommunikationsproblemen zwischen den Projektbeteiligten.
