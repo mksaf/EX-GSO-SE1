@@ -20,9 +20,9 @@ UML Klassendiagramme :  https://github.com/mksaf/EX-GSO-SE1/blob/master/Unterlag
 
 UML Sequenzdiagramme : https://github.com/mksaf/EX-GSO-SE1/blob/master/Unterlagen/UML_Sequenzdiagramme.png
 
-UML Aktivitätsdiagramme :
+UML Aktivitätsdiagramme : https://github.com/mksaf/EX-GSO-SE1/blob/master/Unterlagen/UML_Aktivit%C3%A4tsdiagramm.PNG
 
-UML Verteilungsdiagramm (deployment diagram) :
+UML Verteilungsdiagramm (deployment diagram) : https://github.com/mksaf/EX-GSO-SE1/blob/master/Unterlagen/UML_Verteilungsdiagramm.PNG
 
 Java - Interfaces :
 
