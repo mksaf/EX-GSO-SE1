@@ -24,10 +24,10 @@ UML Aktivitätsdiagramme : https://github.com/mksaf/EX-GSO-SE1/blob/master/Unter
 
 UML Verteilungsdiagramm (deployment diagram) : https://github.com/mksaf/EX-GSO-SE1/blob/master/Unterlagen/UML_Verteilungsdiagramm.PNG
 
-Java - Interfaces :
+Java - Interfaces : !Keine!
 
-lauffähige JUnit-Tests :
+lauffähige JUnit-Tests : 
 
-lauffähige Java - Klassen :
+lauffähige Java - Klassen : https://github.com/mksaf/EX-GSO-SE1/tree/master/GSOCarHome/src
 
-Verzeichnis der eingesetzten Patterns :
+Verzeichnis der eingesetzten Patterns : https://github.com/mksaf/EX-GSO-SE1/blob/master/Unterlagen/Patterns.txt
