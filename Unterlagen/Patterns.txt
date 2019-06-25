@@ -1,0 +1,60 @@
+1 Iterator
+Objekt zur Iteration über Aggregatobjekte
+!Keine!
+
+
+2 Composite 
+Uniforme Verarbeitung komplexer, heterogener Strukturen
+
+Parkhausbesitzer.java
+minutenGeparkt -> if else vergleiche mit integer werten
+getAnzahlGeparkteMin -> switch case vergleiche mit integer werten
+
+Kunde.java
+toString -> if else boolean
+
+GSOCarHomeServlet.java
+doGet
+
+doPost -> null pointer vergleich
+	   -> String equals verlgeich
+	   
+doPost -> null pointer vergleich
+	   -> String equals verlgeich
+
+
+3 Adapter 
+Schnittstellen-Konvertierung
+!Keine!
+
+
+4 Decorator 
+Dynamische Erweiterung von Objekten
+
+Dynamisches Plotten
+parkdauer += " " + parkhaus.getAnzahlGeparkteMin(...); out.println(...);
+
+
+5 Observer 
+Ereignisverarbeitung
+
+doGet -> sum, avg, max, chart
+doPost -> enter, leave
+
+
+6 Strategy 
+Dynamischer Wechsel von Strategien
+!Keine! - selbe Daten nur verschieden verarbeitet
+
+
+7 Command 
+Objektifizierung Aus Nachrichten Kommando-Objekte machen
+
+Parkhausbesitzer.java && Kunde.java
+Alle Methoden die einen return vom Datentyp "void" haben.
+Kunde.java == 2;
+Parkhausbesitzer.java == 5; //Anzahl der vod Methoden
+
+8 Singleton 
+Klasse kann immer nur eine Instanz haben
+!Keine!
