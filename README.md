@@ -26,7 +26,7 @@ UML Verteilungsdiagramm (deployment diagram) : https://github.com/mksaf/EX-GSO-S
 
 Java - Interfaces : !Keine!
 
-lauffähige JUnit-Tests : 
+lauffähige JUnit-Tests : https://github.com/mksaf/EX-GSO-SE1/tree/master/GSOCarHome/src
 
 lauffähige Java - Klassen : https://github.com/mksaf/EX-GSO-SE1/tree/master/GSOCarHome/src
 
